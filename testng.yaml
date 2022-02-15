@@ -1,0 +1,8 @@
+name: Suite
+configFailurePolicy: skip
+tests:
+  - name: Test
+  classes:
+    - Week5day1.createlead
+    - Week5day1.DeleteLead
+
